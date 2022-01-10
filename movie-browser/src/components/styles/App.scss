@@ -1,0 +1,15 @@
+.App{   
+    display: block;
+    text-align: center;
+    align-items: center;   
+    
+    .title{
+        text-shadow: 0  0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: #fff;
+        padding-top: 20px;
+        font-size: 3rem;
+       
+    }
+
+}
