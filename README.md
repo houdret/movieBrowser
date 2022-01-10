@@ -1,4 +1,4 @@
-# movieBrowser
+# MovieBrowser
 
 <img src="movie-browser/public/moviebrowser.png" alt="moviebroser" />
 
